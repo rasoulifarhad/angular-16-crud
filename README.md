@@ -28,3 +28,15 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 See https://www.bezkoder.com/angular-16-crud-example/
+
+See https://www.bezkoder.com/angular-16-pagination-ngx/
+See https://www.bezkoder.com/spring-boot-jpa-h2-example/
+See https://github.com/bezkoder/spring-boot-angular-16-crud-example
+See https://github.com/angular-university/reactive-angular-course/tree/master
+See https://www.danywalls.com/creating-dynamic-forms-in-angular-a-step-by-step-guide
+See https://blog.angulartraining.com/dynamic-filtering-with-rxjs-and-angular-forms-a-tutorial-6daa3c44076a
+See https://copyprogramming.com/howto/how-to-connect-link-input-with-ng-zorro-table-create-search-table
+
+See https://frontbackend.com/spring-boot/spring-boot-postgresql-angular-ngzorro-table-with-pagination-filtering-sorting
+
+See https://decodedscript.com/angular-dynamic-search-table-filter/
