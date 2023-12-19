@@ -5,7 +5,7 @@ import { Tutorial } from '../models/tutorial.model';
 import { environment } from 'src/environments/environment';
 
 // const baseUrl = 'http://localhost:8080/api/tutorials';
-const BASE_URL = `{environment.baseUrl}/api/tutorials`; ;
+const BASE_URL = `${environment.baseUrl}/api/tutorials`; ;
 
 @Injectable({
   providedIn: 'root',
